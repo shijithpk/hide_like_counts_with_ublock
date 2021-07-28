@@ -1,1 +1,1 @@
-How to use uBlock Origin to hide like/retweet counts on Twitter, and post/karma scores on Reddit
+How to use uBlock Origin to hide like/retweet counts on Twitter, and karma/vote counts on Reddit
