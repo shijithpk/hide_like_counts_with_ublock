@@ -52,7 +52,7 @@ twitter.com##div[data-testid=metadata]
 twitter.com##div.css-1dbjc4n.r-1habvwh > div[dir=auto].css-901oao.css-bfa6kz.r-14j79pv.r-1qd0xha.r-n6v787.r-16dba41.r-1cwl3u0.r-bcqeeo.r-qvutc0
 
 ! Removes "Not followed by anyone you’re following" from a user's profile page
-twitter.com##div.css-901oao.r-14j79pv.r-1qd0xha.r-n6v787.r-16dba41.r-1cwl3u0.r-bcqeeo.r-qvutc0 > span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0:has-text(followed)
+twitter.com##div.css-901oao.r-14j79pv.r-37j5jr.r-n6v787.r-16dba41.r-1cwl3u0.r-bcqeeo.r-qvutc0 > span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0:has-text(followed)
 
 ! Remove "Followed by John Doe and n others" in the "Who to follow" section
    ! Also removes the "Retweeted by John Doe and 29 others" or "John Doe liked" in the home page timeline
