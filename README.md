@@ -24,6 +24,9 @@ www.reddit.com##span._2ETuFsVzMBxiHia6HfJCTQ._3_GZIIN1xcMEC5AVuv4kfa
 ! removes karma points and no. of comments for a cross-posted post
 www.reddit.com##div._2ED-O3JtIcOqp8iIL1G5cg > div._3Dd3XvAr-WcOJyMTx4y35x
 
+! removes awards next to post titles
+www.reddit.com##span._2OYwDdghtXEuTF67C95YLY
+
 
 ! ######## TWITTER.COM ##############
 
