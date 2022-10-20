@@ -85,6 +85,9 @@ tweetdeck.twitter.com##span[class*=like-count]
 ! In tweetdeck, if you click on a tweet, you get an enlarged view of the tweet in the column itself with all the reply/like/retweet counts showing. This rule gets rid of them.
 tweetdeck.twitter.com##span.js-ticker-value
 
+! In tweetdeck, if you click on a tweet, you get an enlarged view of the tweet in the column itself with all the reply/like/retweet counts showing. This rule gets rid of them. Version 2
+tweetdeck.twitter.com##span.r-1enofrn.r-b88u0q.r-1akm30i span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0
+
 ! When viewing a single tweet in a column, if you click on the words 'retweets' or 'likes', it tells you how many people have liked/retweeted that tweet. This rule hides the numbers
 tweetdeck.twitter.com##div[class*=social-proof-for-tweet-title]
 
