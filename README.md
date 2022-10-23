@@ -67,6 +67,8 @@ twitter.com##div.css-1dbjc4n.r-1dgieki.r-1efd50x.r-5kkj8d.r-13awgt0.r-18u37iz.r-
 ! Removes the reply, retweet and like counts for a tweet on its own page -- Version 2
 twitter.com##span.r-1b43r93.r-b88u0q.r-1cwl3u0 span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0
 
+! Removes the option for looking at tweet analytics from the tweet's own page 
+twitter.com##a[data-testid=analyticsButton]
 
 ! ######## TWEETDECK.TWITTER.COM ##############
 
