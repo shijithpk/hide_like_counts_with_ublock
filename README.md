@@ -70,6 +70,9 @@ twitter.com##span.r-1b43r93.r-b88u0q.r-1cwl3u0 span.css-901oao.css-16my406.r-poi
 ! Removes the option for looking at tweet analytics from the tweet's own page 
 twitter.com##a[data-testid=analyticsButton]
 
+! Removes reply button for tweets
+twitter.com##div[aria-label=Reply]
+
 ! ######## TWEETDECK.TWITTER.COM ##############
 
 ! Hides the verified tick from accounts in tweetdeck in main view
