@@ -39,6 +39,9 @@ twitter.com##div[aria-label*=Retweet] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
 ! Hides like count for tweets in twitter.com
 twitter.com##div[aria-label*=Like] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
 
+! Hides views count for tweets in twitter.com 
+twitter.com##div > a[aria-label*=Views]
+
 ! Removes the followers and following count from user profiles and user popups on twitter.com
 twitter.com##div.r-1w6e6rj.r-18u37iz.r-13awgt0.css-1dbjc4n
 
